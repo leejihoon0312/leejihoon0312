@@ -5,6 +5,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@leejihoon0312) 
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://github.com/bi-sz/velog-readme-stats)
 <!--
 **leejihoon0312/leejihoon0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
