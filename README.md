@@ -6,7 +6,7 @@
 
   
 ## 💻 DEV log 💻
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech blog)](https://velog.io/@leejihoon0312) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech+blog)](https://velog.io/@leejihoon0312) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://velog-readme-stats.vercel.app/api/redirect?name=leejihoon0312&tag=aws)
 
