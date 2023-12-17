@@ -4,6 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=DADAFC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Ji+Hoon's+GitHub!👋)](https://git.io/typing-svg)
 
 <br>
+
+## 🏫 Education 🏫
+Department of Computer Engineering, Kyonggi Univ
   
 ## 💻 DEV log 💻
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech+blog)](https://velog.io/@leejihoon0312) 
@@ -45,6 +48,13 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnsdl1016)](https://solved.ac/wlgnsdl1016)
+
+## 🏆 Awards 🏆
+
+
+### 2022 소프트웨어 중심대학 해커톤 최우수상
+### 2023 한국정보기술학회(KIIT) 대학생 논문 경진대회 동상
+### 2023 경기대학교 컴퓨터공학 캡스톤디자인 금상
 
 <!--
 (https://github.com/leejihoon0312/velog-readme-stats)
