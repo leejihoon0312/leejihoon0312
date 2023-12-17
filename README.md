@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnsdl1016)](https://solved.ac/wlgnsdl1016)
 
 <!--
 (https://github.com/leejihoon0312/velog-readme-stats)
