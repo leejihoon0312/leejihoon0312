@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=DADAFC&text=&animation=twinkling&height=80)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=DADAFC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Ji+Hoon's+GitHub!👋)](https://git.io/typing-svg)
 
-
+<br>
+<br>
   
 ## 💻 DEV log 💻
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech+blog)](https://velog.io/@leejihoon0312) 
@@ -17,6 +18,9 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312)](https://velog-readme-stats.vercel.app/api/redirect?name=leejihoon0312)
 
 -->
+
+<br>
+<br>
 
 ## 📚 Tech Stack 📚
 <p align="left">
@@ -32,7 +36,7 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>&nbsp 
 
   <br>  
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp 
   
 </p>
