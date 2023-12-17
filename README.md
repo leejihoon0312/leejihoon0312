@@ -1,18 +1,17 @@
 
-<p align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=DADAFC&text=&animation=twinkling&height=80)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=DADAFC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Ji+Hoon's+GitHub!👋)](https://git.io/typing-svg)
 
-</p>
+
   
 ## 💻 DEV log 💻
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@leejihoon0312) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://velog.io/@leejihoon0312)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+## 📚 Tech Stack 📚
+<p align="right">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
