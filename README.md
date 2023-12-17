@@ -49,12 +49,21 @@ Department of Computer Engineering, Kyonggi Univ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnsdl1016)](https://solved.ac/wlgnsdl1016)
 
-## 🏆 Awards 🏆
+<br>
 
+## 🏆 Awards 🏆
 
 #### 2022 소프트웨어 중심대학 해커톤 최우수상
 #### 2023 한국정보기술학회(KIIT) 대학생 논문 경진대회 동상
 #### 2023 경기대학교 컴퓨터공학 캡스톤디자인 금상
+
+## 📜 Certificate and License 📜
+
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 <!--
 (https://github.com/leejihoon0312/velog-readme-stats)
