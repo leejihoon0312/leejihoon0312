@@ -7,6 +7,8 @@
 
 ## 🏫 Education 🏫
 Department of Computer Engineering, Kyonggi Univ
+
+<br>
   
 ## 💻 DEV log 💻
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech+blog)](https://velog.io/@leejihoon0312) 
@@ -57,13 +59,16 @@ Department of Computer Engineering, Kyonggi Univ
 #### 2023 한국정보기술학회(KIIT) 대학생 논문 경진대회 동상
 #### 2023 경기대학교 컴퓨터공학 캡스톤디자인 금상
 
+<br>
+
 ## 📜 Certificate and License 📜
 
-|제목|내용|설명|
+|취득일자|자격명|발행기관|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|2023.06.19|TOPCIT(550)|정보통신기획평가원|
+|2023.06.09|정보처리기사|한국산업인력공단|
+|2021.04.16|SQL Developer|한국데이터산업진흥원|
+
 
 <!--
 (https://github.com/leejihoon0312/velog-readme-stats)
