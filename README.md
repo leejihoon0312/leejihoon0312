@@ -8,7 +8,9 @@
 ## 💻 DEV log 💻
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@leejihoon0312) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://velog.io/@leejihoon0312)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://velog-readme-stats.vercel.app/api/redirect?name=leejihoon0312&tag=aws)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312)](https://velog-readme-stats.vercel.app/api/redirect?name=leejihoon0312)
 
 ## 📚 Tech Stack 📚
 <p align="left">
@@ -26,6 +28,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnsdl1016)](https://solved.ac/wlgnsdl1016)
