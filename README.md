@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>&nbsp 
 
   <br>  
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp 
   
 </p>
