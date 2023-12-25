@@ -18,7 +18,7 @@ Department of Computer Engineering, Kyonggi Univ
 <br>
 
 ## 📋 Portfolio
-<a href="https://www.notion.so/5b193ee509aa42a6b60ea61ef98aaa01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&height=20px"></a>
+<a href="https://www.notion.so/5b193ee509aa42a6b60ea61ef98aaa01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&height=2px"></a>
 <!--
 
 태그 없는 최신글
