@@ -12,7 +12,7 @@ Department of Computer Engineering, Kyonggi Univ
   
 ## 💻 Blog & 📋 Portfolio
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@leejihoon0312) 
-<a href="https://www.notion.so/5b193ee509aa42a6b60ea61ef98aaa01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" height="25px"></a>
+<a href="https://www.notion.so/5b193ee509aa42a6b60ea61ef98aaa01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" height="25px" width="69.612"></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://velog-readme-stats.vercel.app/api/redirect?name=leejihoon0312&tag=aws)
 
