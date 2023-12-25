@@ -5,13 +5,14 @@
 
 <br>
 
-## 🏫 Education 🏫
+## 🏫 Education 
 Department of Computer Engineering, Kyonggi Univ
 
 <br>
   
-## 💻 DEV log 💻
+## 💻 DEV log & Portfolio
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech+blog)](https://velog.io/@leejihoon0312) 
+<a href="https://www.notion.so/5b193ee509aa42a6b60ea61ef98aaa01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://velog-readme-stats.vercel.app/api/redirect?name=leejihoon0312&tag=aws)
 
@@ -25,11 +26,11 @@ Department of Computer Engineering, Kyonggi Univ
 
 <br>
 
-## 📚 Tech Stack 📚
+## 📚 Tech Stack 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>&nbsp
 
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
@@ -46,14 +47,14 @@ Department of Computer Engineering, Kyonggi Univ
 
 <br>
 
-## 🏅 Baekjoon solved rank 🏅
+## 🏅 Baekjoon solved rank 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnsdl1016)](https://solved.ac/wlgnsdl1016)
 
 <br>
 
-## 🏆 Awards 🏆
+## 🏆 Awards 
 
 #### 2023 경기대학교 컴퓨터공학 캡스톤디자인 금상
 #### 2023 한국정보기술학회(KIIT) 대학생 논문 경진대회 동상
@@ -61,7 +62,7 @@ Department of Computer Engineering, Kyonggi Univ
 
 <br>
 
-## 📜 Certificate and License 📜
+## 📜 Certificate and License 
 
 |취득일자|자격명|발행기관|
 |------|---|---|
