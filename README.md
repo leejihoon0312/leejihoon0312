@@ -10,7 +10,7 @@ Department of Computer Engineering, Kyonggi Univ
 
 <br>
   
-## 💻 DEV log & Portfolio
+## 💻 DEV log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech+blog)](https://velog.io/@leejihoon0312) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejihoon0312&tag=aws)](https://velog-readme-stats.vercel.app/api/redirect?name=leejihoon0312&tag=aws)
@@ -18,7 +18,7 @@ Department of Computer Engineering, Kyonggi Univ
 <br>
 
 ## 📋 Portfolio
-<a href="https://www.notion.so/5b193ee509aa42a6b60ea61ef98aaa01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<a href="https://www.notion.so/5b193ee509aa42a6b60ea61ef98aaa01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&height=20px"></a>
 <!--
 
 태그 없는 최신글
