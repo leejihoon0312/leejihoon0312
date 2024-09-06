@@ -5,8 +5,7 @@
 
 <br>
 
-## 🏫 Education 
-Department of Computer Engineering, Kyonggi Univ
+
 
 <br>
   
@@ -55,7 +54,7 @@ Department of Computer Engineering, Kyonggi Univ
 
 ## 🏆 Awards 
 
-#### 2023 경기대학교 컴퓨터공학 캡스톤디자인 금상
+#### 2023 oo대학교 컴퓨터공학 캡스톤디자인 금상
 #### 2023 한국정보기술학회(KIIT) 대학생 논문 경진대회 동상
 #### 2022 소프트웨어 중심대학 해커톤 최우수상
 
